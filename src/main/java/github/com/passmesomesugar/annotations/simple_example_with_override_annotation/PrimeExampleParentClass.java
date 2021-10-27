@@ -1,4 +1,4 @@
-package github.com.passmesomesugar.annotations.simple_example;
+package github.com.passmesomesugar.annotations.simple_example_with_override_annotation;
 
 public class PrimeExampleParentClass {
 
