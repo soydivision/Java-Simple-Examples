@@ -1,7 +1,9 @@
 package github.com.passmesomesugar.anonymous_inner_class;
 
 public class Runner {
-
+    /*The main reason to use AIC is to avoid creating a class for the object
+     * that is going to be used once.
+     * */
     public static void main(String[] args) {
         Animal animal = new Animal();
         animal.makeNoise();
